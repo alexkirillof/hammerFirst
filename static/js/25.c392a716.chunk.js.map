@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/systemic/mobileApp/index.js"],"names":["MobileApp","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJGA,IACTC,cAAA,OAAAC,SAAK,uH","file":"static/js/25.c392a716.chunk.js","sourcesContent":["import React from 'react'\n\nconst MobileApp = () => {\n  return <div>Мобильное приложение</div>\n}\n\nexport default MobileApp\n"],"sourceRoot":""}

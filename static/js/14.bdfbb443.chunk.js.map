@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/banners/index.js"],"names":["Banners","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJCA,IACPC,cAAA,OAAAC,SAAK,8C","file":"static/js/14.bdfbb443.chunk.js","sourcesContent":["import React from 'react'\n\nconst Banners = () => {\n  return <div>Баннеры</div>\n}\n\nexport default Banners\n"],"sourceRoot":""}

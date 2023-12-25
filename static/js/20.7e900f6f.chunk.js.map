@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/mailings/index.js"],"names":["Mailings","_jsx","children"],"mappings":"mGAAA,uBAMeA,UAJEA,IACRC,cAAA,OAAAC,SAAK,oD","file":"static/js/20.7e900f6f.chunk.js","sourcesContent":["import React from 'react'\n\nconst Mailings = () => {\n  return <div>Рассылки</div>\n}\n\nexport default Mailings\n"],"sourceRoot":""}

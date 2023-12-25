@@ -1,0 +1,1 @@
+{"version":3,"sources":["views/app-views/main/promoCodes/index.js"],"names":["PromoCodes","_jsx","children"],"mappings":"kGAAA,uBAMeA,UAJIA,IACVC,cAAA,OAAAC,SAAK,0D","file":"static/js/3.593a119c.chunk.js","sourcesContent":["import React from 'react'\n\nconst PromoCodes = () => {\n  return <div>Промокоды</div>\n}\n\nexport default PromoCodes\n"],"sourceRoot":""}
