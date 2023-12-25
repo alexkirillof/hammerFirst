@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[3],{496:function(s,e,i){"use strict";i.r(e);i(0);var t=i(5);e.default=()=>Object(t.jsx)("div",{children:"\u041f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b"})}}]);
+//# sourceMappingURL=3.593a119c.chunk.js.map
